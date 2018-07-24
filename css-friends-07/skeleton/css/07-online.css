@@ -1,0 +1,22 @@
+/* PHASE 7: Online */
+.profile-picture {
+  overflow: hidden;
+}
+
+.online {
+  color: white;
+  position: absolute;
+  padding: 5px 30px;
+  top: -9px;
+  left: -11px;
+  
+  background-color: #0c0;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  border-bottom: 1px solid #070;
+  text-transform: capitalize;
+  box-shadow: 1px #000;
+  transform: rotate(-45deg) translateX(-25%);
+}
+
